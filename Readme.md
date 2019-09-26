@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Елена](https://up.htmlacademy.ru/htmlcss/26/user/1170035).
-* Наставник: `Кирилл Петров`.
+* Наставник:  [Кирилл](https://htmlacademy.ru/profile/frozik).
 
 ---
 
